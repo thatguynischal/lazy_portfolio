@@ -1016,7 +1016,7 @@ html a.social-link:hover:before {
 @media screen and (min-width: 1200px) {
 	
 	.content-wrap {
-		width: 50%;
+		width: 60%;
 		}
 	
 	/* BUTTONS */
@@ -1030,7 +1030,7 @@ html a.social-link:hover:before {
 @media screen and (min-width: 1600px) {
 	
 	.content-wrap {
-		width: 50%;
+		width: 60%;
 		}
 		
 	.content {
